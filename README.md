@@ -5,22 +5,14 @@
 ### About Me:
 
 
-In the breaks between coding and writing code, I enjoy listening to and creating music, engaging in sports, and playing games. I love traveling and dream of working remotely while exploring the world in search of my place.
+Programmer with experience, specialising in Python and actively learning Go. I write clean and clear code, respecting the principles of structuring and readability. Not a supporter of legacy code, but I like to tidy it up through refactoring. I don't always love writing tests, but I understand their importance and do it without any problems. I strive for constant development, always looking for interesting and challenging tasks. 
 
-My main requirement and desire in work is to be needed. To be part of a friendly, evolving, and comfortable team.
-
-I am confident that in the future, I will find my dream job and will tirelessly develop and strive towards it.
-
-I enjoy interacting with people, but I mostly approach them with caution. I prefer understanding and never judging a person, attributing everything to individuality.
-
-I love it when people laugh at my jokes, and generally, in my interactions with others, I adhere to a humorous tone for a more comfortable connection.
-
-I prefer to stick to logic and cleanliness in everything: in code writing, in the organization of my workspace, and in life. I also enjoy structuring everything that comes my way.
+I am considering options for work. In the future I want to continue working remotely.
 
 
 ### Contact with me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/pal_mir)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/eac0de)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor2001zhukov@gmail.com)
 
 
